@@ -16,14 +16,14 @@ This Power BI dashboard analyzes national mobility trends across counties, racia
 ## 📷 Dashboard Preview
 
 ### 1️⃣ National Mobility Overview by County
-![National Mobility Overview by County](national_mobility_overview_by_county.png)
+![National Mobility Overview by County](National_mobility_overview_by_county.png)
 
 This dashboard provides a county-level analysis of mobility patterns across the United States. It highlights geographic differences in upward mobility and allows comparison between regions.
 
 ---
 
 ### 2️⃣ National Mobility Overview by Race
-![National Mobility Overview by Race](national_mobility_overview_by_race.png)
+![National Mobility Overview by Race](National_mobility_overview_by_race.png)
 
 This view analyzes mobility outcomes across different racial groups. It helps identify disparities and trends in economic advancement among populations.
 
