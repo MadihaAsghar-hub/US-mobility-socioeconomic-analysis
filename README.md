@@ -30,14 +30,14 @@ This view analyzes mobility outcomes across different racial groups. It helps id
 ---
 
 ### 3️⃣ Income and Consumption Analysis
-![Income and Consumption](income_and_consumption.png)
+![Income and Consumption](income_&_consumption.png)
 
 This dashboard explores income distribution and consumption patterns across states. It provides insights into spending behavior and economic differences at the state level.
 
 ---
 
 ### 4️⃣ Race and Credit Score Trends
-![Race and Credit Score Trends](race_and_credit_score_trends.png)
+![Race and Credit Score Trends](race_&_credit_score_trends.png)
 
 This section examines the relationship between race and credit score trends over time. It highlights potential financial disparities and long-term socioeconomic patterns.
 
